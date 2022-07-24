@@ -81,7 +81,7 @@ adalah tempat untuk menampilkan apa yg kita tulis pada console
 
  ## **Function**
  ---
- adalah sebua kode yg di gunakan dalam sebuah grup untuk menyelsaikan satu fitur
+ adalah sebuah kode yg di gunakan dalam sebuah grup untuk menyelsaikan satu fitur
 
  ### **Parameter dan argumen**
  - **parameter**
@@ -90,7 +90,7 @@ adalah tempat untuk menampilkan apa yg kita tulis pada console
 
 - **argumen**
    
-   merupaka nilai yang digunakan saat memanggil function
+   merupakan nilai yang digunakan saat memanggil function
 
    ### **Contoh Function**
 1. hitunglah luas 2 persegi, persegi1(30) dan persegi2(s=10), lalu jumlahkan kedua persegi
@@ -150,7 +150,7 @@ beberapa contoh event:
 	alert("haloo cuy")  
  })
 
- **2. Bulur**
+ **2. Blur**
 
 - pada html
 > ```	<input id="username" />		```
